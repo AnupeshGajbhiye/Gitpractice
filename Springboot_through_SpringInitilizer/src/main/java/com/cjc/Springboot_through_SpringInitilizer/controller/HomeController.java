@@ -94,5 +94,6 @@ public class HomeController {
 		m.addAttribute("ad", slist);
 		return "View";
 	}
+       System.out.println("Git practice");
 	
 }
